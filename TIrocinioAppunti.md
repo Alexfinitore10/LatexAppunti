@@ -1,4 +1,4 @@
-##Cose da vedersi ora tirocinio
+## Cose da vedersi ora tirocinio
 
 Ollama Component.h/.c
 OpenAI Component.h/.c
