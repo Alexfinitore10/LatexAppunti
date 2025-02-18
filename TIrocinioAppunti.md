@@ -3,14 +3,14 @@
 Ollama Component.h/.c
 OpenAI Component.h/.c
 
-#Obbiettivo generale
+# Obbiettivo generale
 
 - Fare in modo di rifare un template in modo tale da far inserire altre AI all'interno e farlo funzionare in modo piu semplice.
 - Ripulire codice
 - Riscrivere il codice di per InferenceDiag in un Thread diverso come fa BayesianDiag
 
 
-##Obbiettivo di Oggi 18/03/2025
+## Obbiettivo di Oggi 18/03/2025
 Provare a studiarmi le funzioni Ollama e OpenAi per capire come funziona il processo di comunicazione con le chiamate alle API
 
 Capire cosa succede con unreal -> Installandolo a casa però
